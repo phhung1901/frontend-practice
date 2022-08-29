@@ -1110,7 +1110,7 @@
         width: 696px;
     }
     .container .body .body_post .slection_post{
-        width: 696px;
+        width: unset;
     }
     .container .body .body_post .more_post{
         display: flex;
@@ -1268,7 +1268,7 @@
         width: 331px;
     }
     .container .body .body_post .slection_post{
-        width: 696px;
+        width: unset;
     }
     .container .body .body_post .more_post{
         display: flex;
